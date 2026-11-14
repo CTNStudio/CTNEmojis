@@ -4,6 +4,8 @@
 
 要使用这些 Emoji，你需要将仓库中的`font`目录下所有贴图复制到自己资源包的`font`目录——或者，直接设置加载本图标组的附加包为前置附加包。
 
+使用这个[由Bedrock Wiki提供的工具](https://wiki.bedrock.dev/text/custom-emojis#using-the-emojis-in-game)以快速计算图标对应的字符
+
 ## 通用区
 
 > 浏览器环境下这些符号并不能正常显示，但在游戏中（Ore UI 界面除外）均可正常显示。
